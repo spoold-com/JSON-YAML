@@ -34,4 +34,4 @@ Switch between JSON configs and YAML (e.g. Kubernetes, CI) or translate API payl
 - **Paste and go** – Paste JSON, HTML, JWT, curl, Base64, or any text on the homepage and Spoold suggests the right tool.
 - **One place for many tools** – JSON formatter, JWT decoder, Base64, UUID generator, regex tester, curl-to-code, and more.
 
-**[Open Spoold →](https://spoold.com/tools)**
+**[Open Spoold →](https://spoold.com/)**
